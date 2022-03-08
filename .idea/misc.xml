@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dev/Android/Ambulance/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.1945" />
         <entry key="..\:/Dev/Android/Ambulance/app/src/main/res/drawable/splash_screen.xml" value="0.1945" />
         <entry key="..\:/Dev/Android/Ambulance/app/src/main/res/layout/activity_splash_screen.xml" value="0.17074275362318841" />
+        <entry key="..\:/Dev/Android/Ambulance/app/src/main/res/layout/layout_sign_in.xml" value="0.22" />
       </map>
     </option>
   </component>
